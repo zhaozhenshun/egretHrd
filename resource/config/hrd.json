@@ -1,0 +1,9 @@
+{"file":"hrd.png","frames":{
+"bg-game1":{"x":1,"y":1,"w":640,"h":480,"offX":0,"offY":0,"sourceW":640,"sourceH":480},
+"blok-h":{"x":643,"y":130,"w":127,"h":63,"offX":1,"offY":1,"sourceW":128,"sourceH":64},
+"blok-h-l":{"x":772,"y":1,"w":191,"h":63,"offX":1,"offY":1,"sourceW":192,"sourceH":64},
+"blok-main":{"x":643,"y":1,"w":127,"h":127,"offX":1,"offY":1,"sourceW":128,"sourceH":128},
+"blok-v-l":{"x":772,"y":66,"w":63,"h":191,"offX":1,"offY":1,"sourceW":64,"sourceH":192},
+"blok-v":{"x":837,"y":135,"w":63,"h":127,"offX":1,"offY":1,"sourceW":64,"sourceH":128},
+"button_start":{"x":837,"y":66,"w":142,"h":67,"offX":0,"offY":3,"sourceW":142,"sourceH":70},
+"khung-go-main":{"x":1,"y":483,"w":425,"h":425,"offX":13,"offY":17,"sourceW":452,"sourceH":459}}}

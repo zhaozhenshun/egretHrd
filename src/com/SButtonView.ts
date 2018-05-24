@@ -1,0 +1,4 @@
+class SButtonView {
+	public constructor() {
+	}
+}
